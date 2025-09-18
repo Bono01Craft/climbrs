@@ -2,10 +2,10 @@
   [[module.imports]]
     path = "github.com/tomowang/hugo-theme-tailwind"
 
-baseURL = "https://example.com/"
-title = "Hugo Theme Tailwind Example Site"
-author = "Your Name"
-copyright = "Your Name"
+baseURL = "https://bono01craft.github.io/climbrs/"
+title = "climbrs crew"
+author = "climbrs"
+copyright = "climbrs"
 pagination.pagerSize = 10
 languageCode = "en"
 theme = "tailwind"

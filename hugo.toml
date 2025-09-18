@@ -19,11 +19,11 @@ theme = "tailwind"
   contentTypeName = "posts"
 
   [params.header]
-    logo = "logo.webp"
+    logo = "bonocraft-logo.png"
     title = ""
 
   [params.footer]
-    since = 2023
+    since = 2025
     poweredby = true
 
 [menu]

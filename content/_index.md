@@ -1,5 +1,8 @@
 ---
-author: "Hugo Authors" 
+title: "Homepage"
+description: "Climbrs was born from chalky hands, sore muscles, and an endless thirst for new adventures. We’re a group of friends who believe that climbing isn’t just a sport—it’s a way of life. From spontaneous bouldering sessions to challenging outdoor routes, we support, hype, and belay each other every step of the way"
+date: "2025-09-18"
+author: "Hugo Authors"
 ---
 
 Climbrs was born from chalky hands, sore muscles, and an endless thirst for new adventures. We’re a group of friends who believe that climbing isn’t just a sport—it’s a way of life. From spontaneous bouldering sessions to challenging outdoor routes, we support, hype, and belay each other every step of the way.

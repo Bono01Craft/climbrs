@@ -8,10 +8,17 @@ author = "climbrs"
 copyright = "climbrs"
 pagination.pagerSize = 10
 languageCode = "en"
-theme = "tailwind"
+theme = "hugo-theme-tailwind"
+enableGitInfo = true
 
 [markup]
   _merge = "deep"
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
 
 [params]
   # dir name of your blog content (default is `content/posts`).
@@ -71,7 +78,21 @@ theme = "tailwind"
     pageRef = "/about"
     weight = 20
 
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.x]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true

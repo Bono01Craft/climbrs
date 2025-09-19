@@ -17,7 +17,8 @@ theme = "tailwind"
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
-
+  jsonLD = true
+  
   [params.header]
     logo = "bonocraft-logo.png"
     title = ""
@@ -25,6 +26,36 @@ theme = "tailwind"
   [params.footer]
     since = 2025
     poweredby = true
+
+
+[social_media]
+  [[social_media.items]]
+    enabled = true
+    title = 'Facebook'
+    icon = 'brand-facebook'
+    link = 'https://www.facebook.com/'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'X'
+    icon = 'brand-x'
+    link = 'https://x.com/tomo_wang_'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Instagram'
+    icon = 'brand-instagram'
+    link = 'https://www.instagram.com/'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Github'
+    icon = 'brand-github'
+    link = 'https://github.com/Bono01Craft'
+
+[pwa]
+  enabled = true
+    
 
 [menu]
 

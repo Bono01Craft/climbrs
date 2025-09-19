@@ -1,9 +1,10 @@
 ---
 title: "p4xx"
-descriptio: ""
+description: ""
 date: "2025-09-18"
 aliases: []
 author: "Hugo Authors"
+tags: [ "climbers" ]
 ---
 
 

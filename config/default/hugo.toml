@@ -1,0 +1,98 @@
+[module]
+  [[module.imports]]
+    path = "github.com/tomowang/hugo-theme-tailwind"
+
+baseURL = "https://bono01craft.github.io/climbrs/"
+title = "climbrs crew"
+author = "climbrs"
+copyright = "climbrs"
+pagination.pagerSize = 10
+languageCode = "en"
+theme = "hugo-theme-tailwind"
+enableGitInfo = true
+
+[markup]
+  _merge = "deep"
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+  jsonLD = true
+  
+  [params.header]
+    logo = "bonocraft-logo.png"
+    title = ""
+
+  [params.footer]
+    since = 2025
+    poweredby = true
+
+
+[social_media]
+  [[social_media.items]]
+    enabled = true
+    title = 'Facebook'
+    icon = 'brand-facebook'
+    link = 'https://www.facebook.com/'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'X'
+    icon = 'brand-x'
+    link = 'https://x.com/tomo_wang_'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Instagram'
+    icon = 'brand-instagram'
+    link = 'https://www.instagram.com/'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Github'
+    icon = 'brand-github'
+    link = 'https://github.com/Bono01Craft'
+
+[pwa]
+  enabled = true
+    
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 20
+
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.x]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true

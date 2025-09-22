@@ -4,6 +4,7 @@
 
 baseURL = "https://bono01craft.github.io/climbrs/"
 title = "climbrs crew"
+description = "climbrs crew"
 author = "climbrs"
 copyright = "climbrs"
 pagination.pagerSize = 10

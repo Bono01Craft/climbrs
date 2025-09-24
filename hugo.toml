@@ -29,7 +29,8 @@ series = "series"
   
   [params.header]
     logo = "bonocraft-logo.png"
-    title = ""
+    title = "climbrs crew"
+    description = "climbrs crew"
 
   [params.footer]
     since = 2025

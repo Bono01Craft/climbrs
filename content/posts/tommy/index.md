@@ -3,7 +3,7 @@ title: "tommy"
 description: ""
 date: "2025-09-20"
 aliases: []
-author: "Hugo Authors"
+author: "climbrs"
 tags: [ "climbers" ]
 ---
 

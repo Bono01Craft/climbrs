@@ -3,7 +3,7 @@ title: "p4xx"
 description: ""
 date: "2025-09-18"
 aliases: []
-author: "Hugo Authors"
+author: "climbrs"
 tags: [ "climbers" ]
 ---
 

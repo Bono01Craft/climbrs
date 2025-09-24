@@ -10,7 +10,4 @@ tags: [ "climbers" ]
 
 # allan
 
-
-
-<img src="{{ "/images/peak-climbr.jpg" | relURL }}" 
-  class="fit-picture"  alt="climbr image" />
+<img src="{{ '/images/peak-climbr.jpg' | relURL }}" class="fit-picture"  alt="climbr image" />

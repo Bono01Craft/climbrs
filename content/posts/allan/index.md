@@ -12,5 +12,5 @@ tags: [ "climbers" ]
 
 
 
-<img src="images/peak-climbr.jpg" 
+<img src="{{ "/images/peak-climbr.jpg" | relURL }}" 
   class="fit-picture"  alt="climbr image" />

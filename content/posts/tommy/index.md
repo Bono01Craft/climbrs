@@ -11,5 +11,5 @@ tags: [ "climbers" ]
 # tommy
 
 
-<img src="/images/peak-climbr.jpg" 
+<img src="images/peak-climbr.jpg" 
   class="fit-picture"  alt="climbr image" />

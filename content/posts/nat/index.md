@@ -11,5 +11,5 @@ tags: [ "climbers" ]
 # nat
 
 
-<img src="images/peak-climbr.jpg" 
+<img src="/climbrs/images/peak-climbr.jpg" 
   class="fit-picture"  alt="climbr image" />

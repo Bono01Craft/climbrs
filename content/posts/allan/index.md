@@ -10,8 +10,9 @@ tags: [ "climbers" ]
 
 # allan
 
-<img src="/images/peak-climbr.jpg" class="fit-picture"  alt="climbr image" />
+<!-- Usa relURL per generare il percorso corretto sotto /climbrs/ anche su GitHub Pages -->
+<img src="{{ "images/peak-climbr.jpg" | relURL }}" class="fit-picture" alt="climbr image" />
 
-<video src="videos/bouldering.mp4" controls>
+<video src="{{ "videos/bouldering.mp4" | relURL }}" controls>
   Your browser does not support the video tag.
 </video>
